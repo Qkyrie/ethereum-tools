@@ -1,2 +1,2 @@
-docker build -t qkyrie/geth_mainnet .
+docker build -t cindercloud/geth_mainnet .
 
