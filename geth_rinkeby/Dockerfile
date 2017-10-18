@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER "Quinten De Swaef"
+MAINTAINER "Cindercloud"
 RUN apt-get update
 RUN apt-get install -y software-properties-common
 RUN add-apt-repository -y ppa:ethereum/ethereum

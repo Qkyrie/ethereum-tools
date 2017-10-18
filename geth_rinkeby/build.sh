@@ -1,2 +1,2 @@
-docker build -t fundrequest/get_rinkeby .
+docker build -t cindercloud/geth_rinkeby .
 
